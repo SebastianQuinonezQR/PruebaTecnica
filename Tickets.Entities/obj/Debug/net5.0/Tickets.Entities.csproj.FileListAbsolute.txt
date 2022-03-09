@@ -1,0 +1,12 @@
+C:\Users\sebas\OneDrive\Escritorio\Pruebas\Tickets\Tickets.Entities\bin\Debug\net5.0\Tickets.Entities.deps.json
+C:\Users\sebas\OneDrive\Escritorio\Pruebas\Tickets\Tickets.Entities\bin\Debug\net5.0\Tickets.Entities.dll
+C:\Users\sebas\OneDrive\Escritorio\Pruebas\Tickets\Tickets.Entities\bin\Debug\net5.0\ref\Tickets.Entities.dll
+C:\Users\sebas\OneDrive\Escritorio\Pruebas\Tickets\Tickets.Entities\bin\Debug\net5.0\Tickets.Entities.pdb
+C:\Users\sebas\OneDrive\Escritorio\Pruebas\Tickets\Tickets.Entities\obj\Debug\net5.0\Tickets.Entities.csproj.AssemblyReference.cache
+C:\Users\sebas\OneDrive\Escritorio\Pruebas\Tickets\Tickets.Entities\obj\Debug\net5.0\Tickets.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sebas\OneDrive\Escritorio\Pruebas\Tickets\Tickets.Entities\obj\Debug\net5.0\Tickets.Entities.AssemblyInfoInputs.cache
+C:\Users\sebas\OneDrive\Escritorio\Pruebas\Tickets\Tickets.Entities\obj\Debug\net5.0\Tickets.Entities.AssemblyInfo.cs
+C:\Users\sebas\OneDrive\Escritorio\Pruebas\Tickets\Tickets.Entities\obj\Debug\net5.0\Tickets.Entities.csproj.CoreCompileInputs.cache
+C:\Users\sebas\OneDrive\Escritorio\Pruebas\Tickets\Tickets.Entities\obj\Debug\net5.0\Tickets.Entities.dll
+C:\Users\sebas\OneDrive\Escritorio\Pruebas\Tickets\Tickets.Entities\obj\Debug\net5.0\ref\Tickets.Entities.dll
+C:\Users\sebas\OneDrive\Escritorio\Pruebas\Tickets\Tickets.Entities\obj\Debug\net5.0\Tickets.Entities.pdb
